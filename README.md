@@ -13,7 +13,7 @@ Now you can visit [`localhost:4000`](http://localhost:4000) from your browser.
 
 Please verify the `config/dev.exs` and make your config for connect with postgres
 
-If your necessary something a docker container, use this [config]((https://gist.github.com/IgorVieira/7b96ec3a9737dcc15ab69a997a2fa078)) for up your container.
+If your necessary something a docker container, use this [config](https://gist.github.com/IgorVieira/7b96ec3a9737dcc15ab69a997a2fa078) for up your container.
 
 Ready to run in production? Please [check our deployment guides](http://www.phoenixframework.org/docs/deployment).
 
